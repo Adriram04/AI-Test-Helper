@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuración AI Test Helper</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h2>Configuración</h2>
+    
+    <label for="apiKey">API Key de OpenAI:</label>
+    <input type="password" id="apiKey" placeholder="Tu API Key aquí...">
+
+    <label for="prompt">Prompt:</label>
+    <textarea id="prompt" placeholder="Ejemplo: Responde solo con la opción correcta del test..."></textarea>
+
+    <label for="uploadTemario">Subir Temario:</label>
+    <input type="file" id="uploadTemario" multiple>
+
+    <button id="guardar">Guardar Configuración</button>
+
+    <script src="popup.js"></script>
+</body>
+</html>
