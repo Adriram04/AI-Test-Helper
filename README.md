@@ -22,8 +22,12 @@ cd AI-Test-Helper
 ---
 
 ### 2️⃣ Cargar la Extensión en Chrome
+
 **Abre Chrome y ve a 👉 chrome://extensions/**
+
 **Activa "Modo Desarrollador" (esquina superior derecha).**
+
 **Haz clic en "Cargar extensión sin empaquetar".**
+
 **Selecciona la carpeta AI-Test-Helper.**
 
