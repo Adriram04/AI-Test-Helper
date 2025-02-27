@@ -7,7 +7,7 @@
 ## 🚀 Características
 ✅ **Responde preguntas tipo test automáticamente.**  
 ✅ **Soporte para múltiples temarios en formato texto.**  
-✅ **Integración con DeepSeek API para respuestas precisas.**  
+✅ **Integración con OpenAi API para respuestas precisas.**  
 ✅ **Interfaz simple y fácil de usar.**  
 ✅ **Respuesta mostrada en pantalla sin interferir con la navegación.**  
 
@@ -18,3 +18,12 @@
 ```bash
 git clone https://github.com/tu-usuario/AI-Test-Helper.git
 cd AI-Test-Helper
+````
+---
+
+### 2️⃣ Cargar la Extensión en Chrome
+**Abre Chrome y ve a 👉 chrome://extensions/**
+**Activa "Modo Desarrollador" (esquina superior derecha).**
+**Haz clic en "Cargar extensión sin empaquetar".**
+**Selecciona la carpeta AI-Test-Helper.**
+
